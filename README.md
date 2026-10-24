@@ -7,18 +7,18 @@ Creative Full Stack Web Developer, certified in ServiceNow System Administration
 ## Projects
 ### Course Planner
 The Course Planner is an in-terminal prompt guide to search through various courses and teachers. The teachers have the courses that they teach along with the rating that they currently have. You load the courses and teachers through a CSV file and then the terminal will direct you to search for a Course or a Teacher, or list them alphabetically.
-[Course Planner Video](./CS-499_Course-Planner.gif)
+![Course Planner Video](./CS-499_Course-Planner.gif)
 
 ### Travlr
 Travlr is a Sequelize, Express, Node.js, and Angular project for people to plan various trips showing 
 
 ### The2Senses
 Website to assist in giving Color Blindness and Hearing Disability tests to the rural communities of India. Worked with a small group to create a variety of tests to assist in identifying color blindness and hearing disabilities within the rural areas of India. It is currently being used by hundreds of Non-Governmental Organizations (NGO's) volunteers, which include the Hope Charitable Trust.
-[Image](./the2senses.png)
+![Home Page of The2Senses](./the2senses.png)
 [The2Senses](https://www.the2senses.com/)
 
 
 ### Pokedex
 A visual showcase of over 1,000 Pokemon broken down by categories such as: what generation they came from, the various types of Pokemon, and singular pages giving more info into each Pokemon.
-[Image](./pokedex-app.png)
+![Home page image of Pokedex Application](./pokedex-app.png)
 [Pokedex](https://joey-pokedex.herokuapp.com/)
