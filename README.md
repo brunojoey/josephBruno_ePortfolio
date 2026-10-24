@@ -22,3 +22,14 @@ Website to assist in giving Color Blindness and Hearing Disability tests to the 
 A visual showcase of over 1,000 Pokemon broken down by categories such as: what generation they came from, the various types of Pokemon, and singular pages giving more info into each Pokemon.
 ![Home page image of Pokedex Application](./pokedex-app.png)
 [Pokedex](https://joey-pokedex.herokuapp.com/)
+
+## Technologies Learned
+- React.js
+- Python
+- C++
+- Java
+- Node.js
+- Express
+- Angular
+- MongoDB
+- SQL
