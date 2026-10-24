@@ -7,7 +7,7 @@ Creative Full Stack Web Developer, certified in ServiceNow System Administration
 ## Projects
 ### Course Planner
 The Course Planner is an in-terminal prompt guide to search through various courses and teachers. The teachers have the courses that they teach along with the rating that they currently have. You load the courses and teachers through a CSV file and then the terminal will direct you to search for a Course or a Teacher, or list them alphabetically.
-![Course Planner Video](./CS-499_Course-Planner.gif)
+![Course Planner Video](./CS-499_CoursePlanner.gif)
 
 ### Travlr
 Travlr is a Sequelize, Express, Node.js, and Angular project for people to plan various trips showing 
