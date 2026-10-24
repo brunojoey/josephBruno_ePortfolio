@@ -2,6 +2,7 @@
 Joseph Bruno's Github Pages ePortfolio 
 
 ## Description
+![Joseph Bruno](./joeyBruno.jpg)
 Creative Full Stack Web Developer, certified in ServiceNow System Administration, with expertise in User Interface Design and Front End Web Development. History of creating and maintaining applications for workflow optimization within a Fortune 500 consulting firm and a national educational institution. An excellent communicator and collaborator with strengths that include exceptional problem-solving, working well on team-based projects, and someone who is always willing to help and lead.
 
 ## Projects
