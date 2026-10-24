@@ -1,5 +1,4 @@
-# Portfolio
-Joseph Bruno's Github Pages ePortfolio 
+# Joseph Bruno's Portfolio
 
 ## Description
 ![Joseph Bruno](./joeyBruno.jpg)
